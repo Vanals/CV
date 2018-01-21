@@ -32,7 +32,7 @@ Makers Academy is one of the best coding bootcamps in Europe. It is a highly int
 | ------------- | ------------- | ------------- | ------ | ------------------  |
 | Dice  | A recreation of a dice rolls script.  | Javascript | https://github.com/Vanals/Dice_Javascript | Jasmine |
 | Rock-Paper-Scissor  | A recreation of the rock paper scissor game.  | Ruby | https://github.com/Vanals/rps-challenge | Rspec |
-|QuizLife| Makers Academy final project. A Web App where you can create an play Quiz with yout friends| Javascript | https://github.com/Vanals/Pub-QuizMocha | Mocha, Chai, Zombie 
+|QuizLife| Makers Academy final project. A Web App where you can create an play Quiz with yout friends| Javascript | https://github.com/Vanals/Pub-QuizMocha | Mocha, Chai, Sinon, Zombie 
 
 
 #### UNIVERSITY OF CAGLIARI / ITALY(SEPT 2011 - APRIL 2016)
