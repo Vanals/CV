@@ -22,11 +22,13 @@ In addition, during my nursing studies I made and managed a blog for nursing stu
 ## Education
 
 #### Makers Academy (SEPT 2017 - JAN 2018)
-Makers Academy is one of the best coding bootcamps in Europe. It is a highly intense course that places a heavy emphasis on not just coding languages but on practices such pair programming, test driven development, object-oriented design and learning to learn. Below is what the course covers and for more information:
+Makers Academy is one of the best coding bootcamps in Europe. It is a highly intense course that places a heavy emphasis on not just coding languages but on practices such pair programming, test driven development, object-oriented design and learning to learn. 
+
+During the course I had experiences with:
 
 - Languages: Javascript (JQuery, React), Ruby, Ruby on Rails, HTML, CSS, SQL.
-- Testing Frameworks: Rspec, Jasmine.
-- Practices: Object Oriented Programming, TDD, DDD, AGILE.
+- Testing Frameworks: Rspec, Jasmine, Mocha, Chai, Sinon.
+- Practices: TDD, XP, AGILE.
 
 | Project       | Description   | Technologies | Links | Testing Technologies |
 | ------------- | ------------- | ------------- | ------ | ------------------  |
