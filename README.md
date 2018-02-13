@@ -78,5 +78,6 @@ I love Travelling & Carnivorous Plants.
 
 ### Contacts
 [Linkedin](https://www.linkedin.com/in/marco-vanali-93a848138/) <br>
-Email: Marco91Vanali@gmail.com
+Email: Marco91Vanali@gmail.com <br>
+[Medium Blog](https://medium.com/@marcovanali)
 
