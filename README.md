@@ -1,4 +1,4 @@
-[Skills](#skills) - [Education](#education) - [Experience](#experience) - [Links](#links)
+[Skills](#skills) - [Education](#education) - [Experience](#experience) - [Contacts](#contacts)
 # Marco Vanali
 
 I am a Full Stack Web Developer and I come from Sardinia, Italy. This journey of mine began when I was managing a Wordpress website for nursing students (http://www.lostudenteim.it) whilst on a Nursing Degree. Between a pathology and another, I realised my passion for coding through my enjoyment of studying HTML and CSS.
@@ -76,6 +76,7 @@ Nursing Assistent, Aylesbury, Buckinghamshire.
 I like playing Video Games and exploring Technologies.
 I love Travelling & Carnivorous Plants.
 
-### Links
+### Contacts
 [Linkedin](https://www.linkedin.com/in/marco-vanali-93a848138/)
+Email: Marco91Vanali@gmail.com
 
