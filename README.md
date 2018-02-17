@@ -77,7 +77,8 @@ I like playing Video Games and exploring Technologies.
 I love Travelling & Carnivorous Plants.
 
 ### Contacts
-[Linkedin](https://www.linkedin.com/in/marco-vanali-93a848138/) <br>
+[Medium Blog](https://medium.com/@marcovanali)<br>
 Email: Marco91Vanali@gmail.com <br>
-[Medium Blog](https://medium.com/@marcovanali)
+[Linkedin](https://www.linkedin.com/in/marco-vanali-93a848138/)
+
 
