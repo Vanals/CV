@@ -1,7 +1,7 @@
 [Skills](#skills) - [Education](#education) - [Experience](#experience) - [Contacts](#contacts) - [My Medium Blog](https://medium.com/@marcovanali)
 # Marco Vanali
 
-I am a Full Stack Web Developer and I come from Sardinia, Italy. This journey of mine began when I was managing a Social Media Community(FB and INST) and a Wordpress website for nursing students (http://www.lostudenteim.it) whilst on a Nursing Degree. Between a pathology and another, I realised my passion for coding through my enjoyment of studying HTML and CSS.
+I am a Full Stack Web Developer and I come from Sardinia, Italy. This journey of mine began when I was managing a Wordpress website for nursing students (http://www.lostudenteim.it) whilst on a Nursing Degree. Between a pathology and another, I realised my passion for coding through my enjoyment of studying HTML and CSS.
 
 Having this realisation after graduating in nursing, I decided to venture to UK to follow my new passion.
 
