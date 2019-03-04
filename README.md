@@ -32,7 +32,7 @@ During the course I had experiences with:
 
 | Project       | Description   | Technologies | Links | Testing Technologies |
 | ------------- | ------------- | ------------- | ------ | ------------------  |
-| Dice  | A recreation of a dice rolls script.  | Javascript | https://github.com/Vanals/Dice_Javascript | Jasmine |
+| LoStudenteIm  | A web site with collection of useful file for italian nurse students.  | React, Javascript, Flexbox, CSS, HTML | www.lostudenteim.it | X |
 | Rock-Paper-Scissor  | A recreation of the rock paper scissor game.  | Ruby | https://github.com/Vanals/rps-challenge | Rspec |
 |QuizLife| Makers Academy final project. A Web App where you can create an play Quiz with yout friends| Javascript, React, ExpressJS, WebSocket ... | https://github.com/Vanals/Pub-Quiz | Mocha, Chai, Sinon, Zombie 
 |InstaCat| This is a side project where, given a JSON file, you can show a feed of pictures, be able to click on them, see the description, the user who post it, leave a comment and like it | Javascript, nodeJS, ReactJS, Html + CSS | https://github.com/Vanals/InstaCat | Jest and Enzyme |
