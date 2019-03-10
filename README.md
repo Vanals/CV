@@ -32,9 +32,9 @@ During the course I had experiences with:
 
 | Project       | Description   | Technologies | Links | Testing Technologies |
 | ------------- | ------------- | ------------- | ------ | ------------------  |
-| LoStudenteIm  | A web site with collection of useful file for italian nurse students.  | React, Javascript, Flexbox, CSS, HTML | www.lostudenteim.it | X |
-| Tennis-2D | Arcade tennis 2D game | Canvas, sass, webpack, babel, html | http://tennis-2d.surge.sh/|
-| Rock-Paper-Scissor  | A recreation of the rock paper scissor game.  | Ruby | https://github.com/Vanals/rps-challenge | Rspec |
+| LoStudenteIm  | A web site with collection of useful file for italian nurse students.  | React, Javascript, Flexbox, CSS, HTML | www.lostudenteim.it |  |
+| Tennis-2D | Arcade tennis 2D game | VanillaJS, Canvas, Sass, Webpack, Babel | http://tennis-2d.surge.sh/|
+| Gif Hunter  | Using the Giphy API shows the giphs you love! | React, CSS | https://github.com/Vanals/Gif-Hunter | Jest |
 |QuizLife| Makers Academy final project. A Web App where you can create an play Quiz with yout friends| Javascript, React, ExpressJS, WebSocket ... | https://github.com/Vanals/Pub-Quiz | Mocha, Chai, Sinon, Zombie 
 |InstaCat| This is a side project where, given a JSON file, you can show a feed of pictures, be able to click on them, see the description, the user who post it, leave a comment and like it | Javascript, nodeJS, ReactJS, Html + CSS | https://github.com/Vanals/InstaCat | Jest and Enzyme |
 
