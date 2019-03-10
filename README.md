@@ -38,8 +38,8 @@ During the course I had experiences with:
 | LoStudenteIm  | A web site with collection of useful file for italian nurse students.  | React, Javascript, Flexbox, CSS, HTML | www.lostudenteim.it |  |
 | Tennis-2D | Arcade tennis 2D game | VanillaJS, Canvas, Sass, Webpack, Babel | http://tennis-2d.surge.sh/|
 | Gif Hunter  | Using the Giphy API shows the giphs you love! | React, CSS | https://github.com/Vanals/Gif-Hunter | Jest |
-|QuizLife| Makers Academy final project. A Web App where you can create an play Quiz with yout friends| Javascript, React, ExpressJS, WebSocket ... | https://github.com/Vanals/Pub-Quiz | Mocha, Chai, Sinon, Zombie 
-|InstaCat| This is a side project where, given a JSON file, you can show a feed of pictures, be able to click on them, see the description, the user who post it, leave a comment and like it | Javascript, nodeJS, ReactJS, Html + CSS | https://github.com/Vanals/InstaCat | Jest and Enzyme |
+|QuizLife| Makers Academy final project. A Web App where you can create an play Quiz with yout friends| Javascript, React, ExpressJS, WebSocket ... | https://github.com/Vanals/Pub-Quiz | Mocha, Chai, Sinon, Zombie|
+
 
 #### UNIVERSITY OF CAGLIARI / ITALY(SEPT 2011 - APRIL 2016)
 Nursing (BA) at University of Cagliari, Sardinia, Italy
