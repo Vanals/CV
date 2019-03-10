@@ -30,6 +30,9 @@ During the course I had experiences with:
 - Testing Frameworks: Rspec, Jasmine, Mocha, Chai, Sinon.
 - Practices: TDD, XP, AGILE.
 
+
+**LATEST SIDE PROJECTS...**
+
 | Project       | Description   | Technologies | Links | Testing Technologies |
 | ------------- | ------------- | ------------- | ------ | ------------------  |
 | LoStudenteIm  | A web site with collection of useful file for italian nurse students.  | React, Javascript, Flexbox, CSS, HTML | www.lostudenteim.it |  |
