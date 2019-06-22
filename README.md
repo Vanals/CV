@@ -46,6 +46,8 @@ Whilst I was working at a hospital in the UK, I was driven for my goal of gettin
 In addition, during my nursing studies I made and managed a blog for nursing students (http://www.lostudenteim.it/)
 Finally, I can say I am very self development focused!
 
+Know more about me reading my [Medium Blog](https://medium.com/@marcovanali)    :white_check_mark:
+
 ## Education
 
 #### Makers Academy (SEPT 2017 - JAN 2018)
