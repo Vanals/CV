@@ -66,7 +66,7 @@ Nursing (BA) at University of Cagliari, Sardinia, Italy
 **MMT Digital (From MAY 2018)**  <br>
 In the first months, I worked in the NQA project where I had mainly the responsibility of building HTML responsive pages and styling pixel perfect client's design. At the same time, I had the opportunity to develop using React.
 
-★ Since then, I had been given the opportunity to contribute to the Vodafone project. In an agile environment with a new team, we develop from scratch the new checkout path for Vodafone.
+★ Since then, I have been given the opportunity to contribute to the Vodafone project. In an agile environment with a new team, we develop from scratch the new checkout path for Vodafone.
 Daily working with Javascript, React, MobX, HTML, CSS and APIs I write clean, tested an reusable code using the best known practices. In order to progress with my job I communicate and collaborate with other staff members: UX/UI, backend team, scrum master, product owner, testers etc. We also demo every two weeks our progresses.
 
 #### Nursing Experience
