@@ -9,7 +9,6 @@ Frontend Web Developer from a beautiful island called Sardinia, Italy. My journe
 Having  this  realisation  after  graduating  in  nursing,  I  ventured  to  UK  to  follow  my  new  passion.  With  hard-work  and  immense research,I got accepted into Makers Academy to train as a developer. 
 Now I work for MMT Digital at the Vodafone office, full time. 
 Since September 2018 I’ve joined a wonderful team which had the aim to re build from scratch the checkout journey.
-I work in an agile environment and greenfield project. Daily communicating with other teams, scrum master, project owner, UX/UI, tester, and teammate. Plus, every two weeks we demo our progresses. 
 
 Now looking for new challenges. Passionate of great user experiences.
 
@@ -64,6 +63,13 @@ Nursing (BA) at University of Cagliari, Sardinia, Italy
 
 ## Experience
 
+**MMT Digital (From MAY 2018)**  <br>
+Web Developer<br>
+In the first months, I worked in the NQA project where I had mainly the responsibility of building HTML responsive pages and styling pixel perfect client's design. At the same time, I had the opportunity to develop using React.
+
+★ Since then, I had been given the opportunity to contribute to the Vodafone project. In an agile environment with a new team, we develop the new checkout path for Vodafone from scratch.
+Daily working with Javascript, React, MobX, HTML, CSS and APIs I write clean, tested an reusable code using the best known practices. In order to progress with my job I communicate and collaborate with all other members: UX/UI, backend team, scrum master, product owner, testers etc. We also demo every two weeks our progresses.
+
 #### Nursing Experience
 ```
 Internships(Italy)
@@ -83,7 +89,7 @@ Nursing Assistent, Aylesbury, Buckinghamshire.
 
 ### In my spare time
 
-I like playing video games, chilling with a nice Netflix episode, indoor climbing.
+I like playing video games, ping pong, chilling with a nice Netflix episode, indoor climbing.
 I love Travelling & Carnivorous Plants.
 
 ### Contacts
