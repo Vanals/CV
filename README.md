@@ -4,13 +4,12 @@
 
 # Marco Vanali
 
-Frontend Web Developer from a beautiful island called Sardinia, Italy. My journey began when I was building and managing a website for nursing students (http://www.lostudenteim.it) whilst on a Nursing Degree. Between a pathology and another, I realised my passion for coding through my enjoyment of studying HTML and CSS
+I am a frontend web developer from Sardinia, Italy. My journey began when I was building and managing a website for nursing students ( http://www.lostudenteim.it) while achieving a Nursing Degree. Between a pathology and another, I realized my passion lied in coding as I thoroughly enjoyed studying HTML and CSS. After graduation in nursing, I ventured to the UK to pursue my passion for web development. With hard work, I got accepted into Makers Academy to train as a developer and stepped forth into working as a front end developer for MMT Digital, now based at the Vodafone London office.
 
-Having  this  realisation  after  graduating  in  nursing,  I  ventured  to  UK  to  follow  my  new  passion.  With  hard-work  and  immense research,I got accepted into Makers Academy to train as a developer. 
-Now I work for MMT Digital at the Vodafone office, full time. 
-Since September 2018 I’ve joined a wonderful team which had the aim to re build from scratch the checkout journey.
-
-Now looking for new challenges. Passionate of great user experiences.
+- I've had the opportunity to work with a variety of projects such as nqa.com, myfamilypet.co.uk and vodafone.co.uk
+- I've worked in a team of 12 that has taught me the collaboration skills of how a project gets built from zero to release.
+- My communication skills also have been progressing as I've had to work with different staff members; like product owner, scrum master, UX/UI, back end teams and more.
+Also every two weeks, me and my team demo our progresses.
 
 ## Tech stack I use daily
 
