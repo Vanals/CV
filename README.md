@@ -15,11 +15,11 @@ Also every two weeks, me and my team demo our progresses.
 
 ○ Javascript ○ React ○ Semantic HTML ○ CSS/SASS ○ Jest ○ MobX ○ Git
 
-### Have also worked with
+### By mt own I have also worked with
 
 ○ Canvas ○ SEO ○ ARIA ○ GSAP
-○ ExpressJS ○ Node ○ MYSQL ○ Google Analytics
-○ Webpack ...
+○ ExpressJS ○ JWT ○ MongoDB ○ Node ○ MYSQL ○ Google Analytics
+○ Webpack ○ Bable ○ AJV ...
 
 **LATEST SIDE PROJECTS...**
 
@@ -65,8 +65,14 @@ Nursing (BA) at University of Cagliari, Sardinia, Italy
 **MMT Digital (From MAY 2018)**  <br>
 In the first months, I worked in the NQA project where I had mainly the responsibility of building HTML responsive pages and styling pixel perfect client's design. At the same time, I had the opportunity to develop using React.
 
-★ Since then, I have been given the opportunity to contribute to the Vodafone project. In an agile environment with a new team, we develop from scratch the new checkout path for Vodafone.
-Daily working with Javascript, React, MobX, HTML, CSS and APIs I write clean, tested an reusable code using the best known practices. In order to progress with my job I communicate and collaborate with other staff members: UX/UI, backend team, scrum master, product owner, testers etc. We also demo every two weeks our progresses.
+★ Since then, I have been given the opportunity to work full time in the Vodafone project. In an agile environment with a new team, we've developed from scratch the new checkout path for Vodafone.
+
+I still am now daily working with Javascript, React, MobX, HTML, CSS and APIs. I write clean, tested an reusable code using the best known practices.
+The code is tested using Jest, Enzyme and other internal screenshots tools.
+The daily practice include create complex tested components following Atomic Design principles, implementing MOBX state management, styling pixel perfect the components in base of the design given.
+
+I have also been involved in building the JSON validation logic using the AJV library and won an internal hackathlon using vanilla javascript, pair programming with juniors.
+In order to progress with my job I communicate and collaborate with other staff members: UX/UI, backend team, scrum master, product owner, testers etc. We also demo every two weeks our progresses.
 
 #### Nursing Experience
 ```
