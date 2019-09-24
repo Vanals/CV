@@ -67,12 +67,9 @@ In the first months, I worked in the NQA project where I had mainly the responsi
 
 ★ Since then, I have been given the opportunity to work full time in the Vodafone project. In an agile environment with a new team, we've developed from scratch the new checkout path for Vodafone.
 
-I am still now daily working with Javascript, React, MobX, HTML, CSS and APIs. I write clean, tested an reusable code using the best known practices.
-The code is tested using Jest, Enzyme and other internal screenshots tools.
-The daily practice include create complex tested components following Atomic Design principles, implementing MOBX state management, styling pixel perfect the components in base of the design given.
+reusable code using the best-known practices. The code is tested using Jest, Enzyme and other internal screenshots tools. The daily practice includes creating complex tested components following Atomic Design principles, implementing MOBX state management, styling pixel perfect the components in base of the design given.
 
-I have also been involved in building the JSON validation logic using the AJV library and won an internal hackathlon using vanilla javascript, pair programming with juniors.
-In order to progress with my job I communicate and collaborate with other staff members: UX/UI, backend team, scrum master, product owner, testers etc. We also demo every two weeks our progresses.
+I have also been involved in building the JSON validation logic using the AJV library and won an internal hackathon using vanilla javascript, pair programming with juniors. In order to progress with my job I communicate and collaborate with other staff members: UX/UI, backend team, scrum master, product owner, testers etc. We also demo every two weeks our progress.
 
 #### Nursing Experience
 ```
